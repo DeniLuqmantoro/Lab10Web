@@ -29,8 +29,9 @@ Simpan pada folder lab10_php_oop yang telah dibuat kemudian buka pada browser de
 
 4.	Buat file baru dengan nama form_input.php seperti berikut
  
-![image](https://user-images.githubusercontent.com/101716699/170858122-8f20d536-5567-4331-8ac3-4f966861c367.png)
+![image](https://user-images.githubusercontent.com/101716699/170858196-ed68a40c-d46f-4789-87f2-c03dce6d304b.png)
 
 Simpan pada folder lab10_php_oop yang telah dibuat kemudian buka pada browser dengan link http://localhost/lab10_php_oop/form_input.php 
  
-![image](https://user-images.githubusercontent.com/101716699/170858136-9250cf5f-860b-4108-bb29-54eac4490051.png)
+![image](https://user-images.githubusercontent.com/101716699/170858212-5817dd0b-715c-43de-9a06-e597e78b242d.png)
+
